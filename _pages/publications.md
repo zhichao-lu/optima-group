@@ -1,17 +1,13 @@
 ---
-title: "Allan Lab - Publications"
+title: "Optima Group - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Optima Group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 
 # Publications
-
-## Group highlights
-
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,16 +48,21 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
+## Selected List of publications
+**Full list of papers are available on [CityU Scholars](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2)/publications.html).**
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+#### **Journal**
+{% for publi in site.data.journallist %}
 
-## Full List of publications
+<a href="{{ publi.link.url }}"><strong>{{ publi.title }}</strong></a> <br />
+  <em>{{ publi.authors }} </em><br />{{ publi.link.display }}
 
-{% for publi in site.data.publist %}
+{% endfor %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+#### **Conference**
+{% for publi in site.data.conferencelist %}
+
+<a href="{{ publi.link.url }}"><strong>{{ publi.title }}</strong></a> <br />
+<em>{{ publi.authors }} </em><br />{{ publi.link.display }}
 
 {% endfor %}

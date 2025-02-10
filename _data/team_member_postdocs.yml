@@ -1,0 +1,31 @@
+- name: Xi LIN (林熙)
+  photo: XiLin.jpg
+  url: https://xi-l.github.io
+  number_topic: 5
+  topic1: Multiobjective Optimization
+  topic2: Learning-based Optimization
+  topic3: Bayesian Optimization
+  topic4: Evolutionary Computation
+  topic5: Multi-Task Learning
+
+- name: Fei LIU (柳斐)
+  photo: feiliu.jpg
+  url: https://feiliu36.github.io/
+  number_topic: 3
+  topic1: Artificial Intelligence
+  topic2: Automated Algorithm Design
+  topic3: Combinatorial Optimization
+
+- name: Zidong WANG (王紫东)
+  photo: zidongwang.jpg
+  url: https://scholar.google.com/citations?user=t1jXGwkAAAAJ&hl=en&oi=sra
+  number_topic: 2
+  topic1: Causal Discovery
+  topic2: Bayesian Networks
+
+- name: Liang ZHAO (赵亮)
+  photo: liangzhao.png
+  url: https://liazhao5.github.io/
+  number_topic: 2
+  topic1: Multiobjective Optimization
+  topic2: Bayesian Optimization

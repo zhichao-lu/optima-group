@@ -1,0 +1,23 @@
+- name: Qingfu ZHANG (张青富)
+  photo: qingfuzhang.jpeg
+  info: Chair Professor of Computational Intelligence, IEEE Fellow
+  email: qingfu.zhang@cityu.edu.hk
+  url: https://www.cs.cityu.edu.hk/~qzhan7/index.html
+  number_topic: 5
+  topic1: Evolutionary Computation
+  topic2: Metaheuristics
+  topic3: Mathematical Programming
+  topic4: Multiobjective Optimization
+  topic5: Machine Learning
+
+- name: Zhichao LU (陆智超)
+  photo: zhichao_lu_sysu.jpg
+  info: Assistant Professor
+  email: zhichao.lu@cityu.edu.hk
+  url: https://www.cs.cityu.edu.hk/~zhichalu/index.html
+  number_topic: 4
+  topic1: Evolutionary Computation
+  topic2: Multiobjective Optimization
+  topic3: Bilevel Optimization
+  topic4: Neural Architecture Search
+

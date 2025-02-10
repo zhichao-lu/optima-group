@@ -1,0 +1,131 @@
+- name: Dake BU (卜大可)
+  photo: dakebu.jpg
+  info: started Month Year
+  url: https://scholar.google.com/citations?user=mWrnNqsAAAAJ
+  number_topic: 1
+  topic1: Machine Learning
+
+- name: Ji CHENG (程吉)
+  photo: jicheng.jpg
+  info: started Month Year
+  url: https://scholar.google.com/citations?hl=en&user=5CO3AVcAAAAJ
+  number_topic: 3
+  topic1: Machine Learning
+  topic2: Online Learning
+  topic3: Bayesian Optimization
+
+- name: Siyuan CHEN (陈思源)
+  photo: siyuanchen.jpg
+  info: started September 2024
+  url: https://github.com/c4yg70
+  number_topic: 2
+  topic1: Automated Programming
+  topic2: Synergistic Optimization of Hardware and Software
+
+- name: Ping GUO (郭平)
+  photo: pingguo.jpg
+  info: started Month Year
+  url: https://guo-ping.com/
+  number_topic: 3
+  topic1: Computational Intelligence
+  topic2: Artificial Intelligence
+  topic3: Optimization
+
+- name: Qinglong HU (胡庆隆)
+  photo: qinglonghu.jpg
+  info: started September 2024
+  url: https://orcid.org/0000-0002-6862-8705
+  number_topic: 3
+  topic1: Evolutionary Computing
+  topic2: High-dimensional Optimization
+  topic3: Large Language Model
+
+- name: Song LAI (赖嵩)
+  photo: songlai.jpg
+  info: started Month Year
+  url: https://laisong-22004009.github.io/
+  number_topic: 3
+  topic1: Continual Learning
+  topic2: Multiobjective Optimization
+  topic3: Large Language Model
+
+- name: Weiduo LIAO (廖伟多)
+  photo: weiduoliao.jpg
+  info: started Month Year
+  url: https://liaoweiduo.notion.site/weiduo-liao-homepage
+  number_topic: 3
+  topic1: Continual Learning
+  topic2: Meta Learning
+  topic3: Evolutionary Multiobjective Optimization
+
+- name: Yilu LIU (刘一鹭)
+  photo: yiluliu.jpg
+  info: started Month Year
+  url: https://scholar.google.com/citations?user=7414KGcpDPAC
+  number_topic: 2
+  topic1: Network Science
+  topic2: Evolutionary Computation
+
+- name: Chengyu LU (卢承宇)
+  photo: chengyulu.jpg
+  info: started Month Year
+  url: https://scholar.google.com/citations?user=YqugGsQAAAAJ
+  number_topic: 2
+  topic1: Evolution Etrategy
+  topic2: Multiobjective Optimization
+
+- name: Yuxiong QING (秦渝雄)
+  photo: qinyuxiong.png
+  info: started September 2024
+  url:
+  number_topic: 0
+
+- name: Bo XUE (薛波)
+  photo: boxue.jpg
+  info: started Month Year
+  url: https://xueb1996.github.io/
+  number_topic: 2
+  topic1: Bandits
+  topic2: Stochastic Optimization
+
+- name: Shunyu YAO (姚舜禹)
+  photo: ShunyuYao.jpg
+  info: started Month Year
+  url: https://scholar.google.com/citations?user=ksM-S0wAAAAJ&hl=en&oi=ao
+  number_topic: 2
+  topic1: Combinatorial Optimization
+  topic2: Deep Learning
+
+- name: Yiming YAO (姚一鸣)
+  photo: yimingyao.jpg
+  info: started Month Year
+  url: https://scholar.google.com/citations?user=c8qCgy0AAAAJ
+  number_topic: 1
+  topic1: Bayesian Optimization
+
+- name: Xiaoyuan ZHANG (张霄远)
+  photo: xiaoyuanzhang.png
+  info: started Month Year
+  url: https://scholar.google.com/citations?hl=en&user=KQj18L8AAAAJ
+  number_topic: 4
+  topic1: Multiobjective Optimization
+  topic2: LLM Alignment
+  topic3: Multi-Task Learning
+  topic4: Reinforcement Learning
+
+- name: Xu ZHANG (张煦)
+  photo: xuzhang.jpg
+  info: started September 2024
+  url: https://github.com/ZhangXu0963
+  number_topic: 2
+  topic1: Multimodal
+  topic2: Optimization
+
+- name: Kefeng ZHENG (郑可风)
+  photo: kefengzheng.jpg
+  info: started September 2024
+  url: https://www.researchgate.net/profile/Kefeng-Zheng
+  number_topic: 3
+  topic1: Machine Learning
+  topic2: Large Language Model
+  topic3: Aerodynamics

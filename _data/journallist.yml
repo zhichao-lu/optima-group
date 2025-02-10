@@ -1,0 +1,24 @@
+- title: "DPP-HSS: Towards Fast and Scalable Hypervolume Subset Selection for Many-objective Optimization"
+  authors: Cheng Gong, Yang Nan, Ke Shang, Ping Guo, Hisao Ishibuchi, and Qingfu Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/10742945
+    display: IEEE Transactions on Evolutionary Computation (<strong>TEVC</strong>), 2024
+
+- title: "Many-to-Few Decomposition: Linking R2-Based and Decomposition-Based Multiobjective Efficient Global Optimization Algorithms"
+  authors: Liang Zhao, Xiaobin Huang, Chao Qian, and Qingfu Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/10612805
+    display: IEEE Transactions on Evolutionary Computation (<strong>TEVC</strong>), 2024
+
+- title: "Machine Learning Assisted Multiobjective Evolutionary Algorithm for Routing and Packing"
+  authors: Fei Liu, Qingfu Zhang, Qingling Zhu, Tong Xialiang, and Mingxuan Yuan
+  link:
+    url: https://ieeexplore.ieee.org/document/10423590
+    display: IEEE Transactions on Evolutionary Computation (<strong>TEVC</strong>), 2024
+
+- title: "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization"
+  authors: Liang Zhao and Qingfu Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/10093980
+    display: IEEE Transactions on Evolutionary Computation (<strong>TEVC</strong>), 2023
+

@@ -1,0 +1,18 @@
+- title: "Provably Neural Active Learning Succeeds via Prioritizing Perplexing Samples"
+  authors: Dake Bu, Wei Huang, Taiji Suzuki, Ji Cheng, Qingfu Zhang, Zhiqiang Xu, and Hau-San Wong
+  link:
+    url: https://arxiv.org/abs/2406.03944
+    display: International Conference on Machine Learning (<strong>ICML</strong>), 2024
+
+- title: "Smooth Tchebycheff Scalarization for Multi-Objective Optimization"
+  authors: Xi Lin, Xiaoyuan Zhang, Zhiyuan Yang, Fei Liu, Zhenkun Wang, and Qingfu Zhang
+  link:
+    url: https://arxiv.org/abs/2402.19078
+    display: International Conference on Machine Learning (<strong>ICML</strong>), 2024
+
+- title: "Two Fists, One Heart: Multi-Objective Optimization Based Strategy Fusion for Long-tailed Learning"
+  authors: Zhe Zhao, Pengkun Wang, HaiBin Wen, Wei Xu, Song Lai, Qingfu Zhang, and Yang Wang
+  link:
+    url: https://openreview.net/forum?id=MEZydkOr3l
+    display: International Conference on Machine Learning (<strong>ICML</strong>), 2024
+

@@ -1,41 +1,55 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Optima Group - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# Open Positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
-
-We are  looking for new group members with passion, talent, and grit!
-
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
-
-### Past open positions
-
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
-
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
+We constantly look for people with strong mathematical or programming skills to work on problems related to 
+learning and optimization. If you tare interested, we have multiple PhD, MPhil, Postdoc, RA, 
+and Visiting positions available.
 
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
+### PhD Applications 
+If you are interested in joining us, please first contact us at:
+<span style="background-color: #D6EAF8">xxx [at] yyy [dot] com</span>.
 
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+- Please highlight your <strong>BS's Average Score/100</strong> and <strong>TOEFL/IELTS</strong>,
+  since CityU has specific requirements
+- Please provide your publications, national award, homepage link, research project/interns, ...
+- Please attach your CV/Resume, and Transcripts of BS/MS programmes
+- More information is available from
+    <a href="https://www.cs.cityu.edu.hk/academic-programmes/master-philosophy-doctor-philosophy/admissions"
+       target='_blank'>Link</a>
+
+Exceptionally qualified students are encouraged to apply the 
+<a href="https://www.cityu.edu.hk/cc/sites/g/files/asqsls8351/files/2024-11/Full%20stipend%20for%20the%204th%20year%20of%20study%20(HK$337,200).png"
+target='_blank'>Hong Kong PhD Fellowship Scheme (HKPFS)</a>
+by 1 December 2024, with scholarship HK$28,100/month, travel allowance HK$14,000/year, free tuition, etc.
+Official evaluation criteria include GPA, national award, English, publication,
+recommendation letter, overseas study/visiting experience, etc.
+
+<u>Self-financed</u> PhD positions are available year round.
 
 
+### Postdoc, RA, and Visiting Positions
+We are actively recruiting <em>talented</em> and <em>passionate</em> Postdocs. Qualified candidates are encouraged to apply
+the <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/jrfs/call_letter.html" target='_blank'>
+Junior Research Fellow Scheme (JRFS)</a> by Sep 26 (internal ddl),
+with basic salary HK$420,000/year and travel allowance HK$13,300/year.
+
+Master’s and Bachelor’s students at CityU who intent to work with us,
+please contact us as earliest due to the limited positions per year. ML knowledge,
+Python coding and English writing experience is desirable.
+
+<a href="https://www.cityu.edu.hk/pg/visiting/visiting-research-students" target='_blank'>
+Visiting research students & scholars</a> positions are available year around.
+
+### <a href="https://www.cityu.edu.hk/about/cityu-at-a-glance" target='_blank'>CityU at a Glance</a>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/cityu_ranking.jpg" width="95%">
 </figure>
+
