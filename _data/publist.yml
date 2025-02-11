@@ -10,7 +10,7 @@
 - title: "Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model"
   image: eoh.jpg
   description: EoH combines LLMs and EC to automate the design of heuristics. EoH co-evolves "thoughts" (natural language as ideas) and executable code using LLMs, outperforming heuristics designed by human experts on various combinatorial optimization problems.
-  authors: Fei Liu, Tong Xialiang, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, and Qingfu Zhang
+  authors: Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, and Qingfu Zhang
   link:
     url: https://openreview.net/forum?id=BwAkaxqiLB
     display: ICML 2024 (Oral)
