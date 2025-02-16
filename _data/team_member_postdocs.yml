@@ -29,3 +29,10 @@
   number_topic: 2
   topic1: Multiobjective Optimization
   topic2: Bayesian Optimization
+
+- name: Jianxiong TANG (唐建雄)
+  photo: tjx_photo.jpg
+  url: https://scholar.google.com/citations?user=mvtc9acAAAAJ&hl
+  number_topic: 2
+  topic1: Spiking Neural Networks
+  topic2: Brain-Inspired Intelligence

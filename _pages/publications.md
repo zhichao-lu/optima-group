@@ -45,8 +45,29 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+[//]: # (<p> &nbsp; </p>)
 
+## Tutorials
+{% assign number_tutorial = 1 %}
+{% for publi in site.data.tutoriallist %}
+
+\[{{number_tutorial}}\] <a href="{{ publi.link.url }}"><strong>{{ publi.title }}</strong></a> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; <em>{{ publi.authors }} </em><br />
+&nbsp;&nbsp;&nbsp;&nbsp; {{ publi.link.display }}
+
+{% assign number_tutorial = number_tutorial | plus: 1 %}
+{% endfor %}
+
+## Surveys
+{% assign number_survey = 1 %}
+{% for publi in site.data.surveylist %}
+
+\[{{number_survey}}\] <a href="{{ publi.link.url }}"><strong>{{ publi.title }}</strong></a> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; <em>{{ publi.authors }} </em><br />
+&nbsp;&nbsp;&nbsp;&nbsp; {{ publi.link.display }}
+
+{% assign number_survey = number_survey | plus: 1 %}
+{% endfor %}
 
 ## Selected List of publications
 **Full list of papers are available on [CityU Scholars](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2)/publications.html).**

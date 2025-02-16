@@ -15,7 +15,8 @@ and Visiting positions available.
 
 ### PhD Applications 
 If you are interested in joining us, please first contact us at:
-<span style="background-color: #D6EAF8">xxx [at] yyy [dot] com</span>.
+<span style="background-color: #D6EAF8">qingfu.zhang [at] cityu [dot] edu [dot] hk</span> or 
+<span style="background-color: #D6EAF8">luzhichaocn [at] gmail [dot] com</span>.
 
 - Please highlight your <strong>BS's Average Score/100</strong> and <strong>TOEFL/IELTS</strong>,
   since CityU has specific requirements

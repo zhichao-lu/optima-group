@@ -7,7 +7,7 @@
 
 - name: Ji CHENG (程吉)
   photo: jicheng.jpg
-  info: started Month Year
+  info: started January 2023
   url: https://scholar.google.com/citations?hl=en&user=5CO3AVcAAAAJ
   number_topic: 3
   topic1: Machine Learning
@@ -24,7 +24,7 @@
 
 - name: Ping GUO (郭平)
   photo: pingguo.jpg
-  info: started Month Year
+  info: started September 2020
   url: https://guo-ping.com/
   number_topic: 3
   topic1: Computational Intelligence
@@ -51,7 +51,7 @@
 
 - name: Weiduo LIAO (廖伟多)
   photo: weiduoliao.jpg
-  info: started Month Year
+  info: started October 2020
   url: https://liaoweiduo.notion.site/weiduo-liao-homepage
   number_topic: 3
   topic1: Continual Learning
@@ -68,7 +68,7 @@
 
 - name: Chengyu LU (卢承宇)
   photo: chengyulu.jpg
-  info: started Month Year
+  info: started September 2021
   url: https://scholar.google.com/citations?user=YqugGsQAAAAJ
   number_topic: 2
   topic1: Evolution Etrategy
@@ -82,7 +82,7 @@
 
 - name: Bo XUE (薛波)
   photo: boxue.jpg
-  info: started Month Year
+  info: started September 2022
   url: https://xueb1996.github.io/
   number_topic: 2
   topic1: Bandits
@@ -98,14 +98,14 @@
 
 - name: Yiming YAO (姚一鸣)
   photo: yimingyao.jpg
-  info: started Month Year
+  info: started September 2022
   url: https://scholar.google.com/citations?user=c8qCgy0AAAAJ
   number_topic: 1
   topic1: Bayesian Optimization
 
 - name: Xiaoyuan ZHANG (张霄远)
   photo: xiaoyuanzhang.png
-  info: started Month Year
+  info: started September 2021
   url: https://scholar.google.com/citations?hl=en&user=KQj18L8AAAAJ
   number_topic: 4
   topic1: Multiobjective Optimization

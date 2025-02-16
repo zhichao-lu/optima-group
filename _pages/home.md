@@ -18,7 +18,6 @@ in fields ranging from engineering design to e-commence and management planning.
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
@@ -49,7 +48,9 @@ has become one of the most widely used algorithmic framework in the area of mult
 See [Research](research) for more. 
 
 We are grateful for the generous support from University Grants Committee (UGC),
-Innovation and Technology Commission (ITC), National Natural Science Foundation of China (NSFC), Huawei, and CATL. 
+Innovation and Technology Commission (ITC), National Natural Science Foundation of China (NSFC),
+Ministry of Science and Technology (MOST), Shenzhen Science and Technology Innovation Commission (STIC), 
+Huawei, and CATL. 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
