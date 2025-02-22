@@ -186,7 +186,7 @@ on gradient-based multi-objective optimization and its applications in deep lear
 
 [16] Yilu Liu, Chengyu Lu, Xi Lin, Qingfu Zhang. [Many-Objective Cover Problem: Discovering Few Solutions to Cover Many Objectives](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_5), PPSN 2024.
 
-[17] Xiaoyuan Zhang*, Liang Zhao*, Yingying Yu*, Xi Lin, Zhenkun Wang, Han Zhao, Qingfu Zhang. [LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch](https://openreview.net/forum?id=etdXLAMZoc), NeurIPS 2024.
+[17] Xiaoyuan Zhang, Liang Zhao, Yingying Yu, Xi Lin, Zhenkun Wang, Han Zhao, Qingfu Zhang. [LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch](https://openreview.net/forum?id=etdXLAMZoc), NeurIPS 2024.
 
-[18] Weiyu Chen*, Xiaoyuan Zhang*, Baijiong Lin*, Xi Lin, Han Zhao, Qingfu Zhang, James T. Kwok. [Gradient-Based Multi-Objective Deep Learning: Algorithms, Theories, Applications, and Beyond](https://arxiv.org/abs/2501.10945), Technical Reports 2025.
+[18] Weiyu Chen, Xiaoyuan Zhang, Baijiong Lin, Xi Lin, Han Zhao, Qingfu Zhang, James T. Kwok. [Gradient-Based Multi-Objective Deep Learning: Algorithms, Theories, Applications, and Beyond](https://arxiv.org/abs/2501.10945), Technical Reports 2025.
 

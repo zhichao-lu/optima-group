@@ -1,0 +1,12 @@
+- title: "LLM4AD: A Platform for Algorithm Design with Large Language Model"
+  authors: Fei Liu, Rui Zhang, Zhuoliang Xie, Rui Sun, Kai Li, Xi Lin, Zhenkun Wang, Zhichao Lu, and Qingfu Zhang
+  link:
+    url: http://www.llm4ad.com/
+
+- title: "LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch"
+  authors: Xiaoyuan Zhang, Liang Zhao, Yingying Yu, Xi Lin, Yifan Chen, Han Zhao, Qingfu Zhang
+  link:
+    url: https://github.com/xzhang2523/libmoon
+
+#  [<a href="http://www.llm4ad.com/"><img alt="http" src="{{ site.url }}{{ site.baseurl }}/images/icon/Internet-icon.png" width="30" height="30"></a>,
+#   <a href="https://llm4ad-doc.readthedocs.io/en/latest/index.html"><img alt="pdf" src="icons/document.png" width="25" height="25"></a>]

@@ -1,5 +1,17 @@
+- title: "Gradient-Based Multi-Objective Deep Learning: Algorithms, Theories, Applications, and Beyond"
+  authors: Weiyu Chen, Xiaoyuan Zhang, Baijiong Lin, Xi Lin, Han Zhao, Qingfu Zhang, James T. Kwok
+  link:
+    url: https://arxiv.org/abs/2501.10945
+    display: arXiv, 2025
+
 - title: "A Systematic Survey on Large Language Models for Algorithm Design"
   authors: Fei Liu, Yiming Yao, Ping Guo, Zhiyuan Yang, Zhe Zhao, Xi Lin, Xialiang Tong, Mingxuan Yuan, Zhichao Lu, Zhenkun Wang, and Qingfu Zhang
   link:
     url: https://arxiv.org/abs/2410.14716
-    display: arXiv, 2025
+    display: arXiv, 2024
+
+- title: "Heuristics for Vehicle Routing Problem: A Survey and Recent Advances"
+  authors: Fei Liu, Chengyu Lu, Lin Gui, Qingfu Zhang, Xialiang Tong, Mingxuan Yuan
+  link:
+    url: https://arxiv.org/abs/2303.04147
+    display: arXiv, 2023

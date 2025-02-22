@@ -271,6 +271,71 @@ permalink: /team/
 {% endif %}
 
 
+## Visitors
+{% assign number_printed = 0 %}
+{% for member in site.data.team_member_visitors %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <a href="{{ member.url }}" target="_blank" rel="noopener noreferrer"><img 
+    src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" 
+        width="25%" style="float: left" /></a>
+  <h4><a href="{{ member.url }}" target="_blank" rel="noopener noreferrer">{{ member.name }}</a></h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <ul style="overflow: hidden">
+
+{% if member.number_topic == 1 %}
+  <li> {{ member.topic1 }} </li>
+  {% endif %}
+
+{% if member.number_topic == 2 %}
+  <li> {{ member.topic1 | markdownify}} </li>
+  <li> {{ member.topic2 | markdownify}} </li>
+  {% endif %}
+
+{% if member.number_topic == 3 %}
+  <li> {{ member.topic1 }} </li>
+  <li> {{ member.topic2 }} </li>
+  <li> {{ member.topic3 }} </li>
+  {% endif %}
+
+{% if member.number_topic == 4 %}
+  <li> {{ member.topic1 }} </li>
+  <li> {{ member.topic2 }} </li>
+  <li> {{ member.topic3 }} </li>
+  <li> {{ member.topic4 }} </li>
+  {% endif %}
+
+{% if member.number_topic == 5 %}
+  <li> {{ member.topic1 }} </li>
+  <li> {{ member.topic2 }} </li>
+  <li> {{ member.topic3 }} </li>
+  <li> {{ member.topic4 }} </li>
+  <li> {{ member.topic5 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
 ## Alumni
 
 <div class="row">
