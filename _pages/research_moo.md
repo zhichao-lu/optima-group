@@ -70,6 +70,9 @@ $$
 Under mild conditions, the Pareto set $$X^*$$ and the Pareto front $$\boldsymbol{f}(X^*)$$ are both $$(m-1)$$-dimensional 
 manifolds in the decision space $$\mathbb{R}^n$$ and objective space $$\mathbb{R}^m$$, respectively.
 
+---
+
+
 ## Representative Work from Optima Group
 
 ### MOEA/D
