@@ -3,11 +3,6 @@
   affiliation:
   url: https://scholars.cityu.edu.hk/en/persons/jingjing-chen(4263a2bd-a1bc-4d3a-ad44-8cf83c35ce07).html
 
-- name: Cheng GONG (龚成)
-  year: 2024
-  affiliation: Huawei Noah's Ark lab
-  url: https://scholar.google.com/citations?user=d_wVFg0AAAAJ&hl=zh-CN&oi=ao
-
 - name: Zhiyuan YANG (杨致远)
   year: 2024
   affiliation: Huawei Noah's Ark lab
@@ -43,10 +38,25 @@
   affiliation: Assistant Professor at Southern University of Science and Technology
   url: https://www.sustech.edu.cn/en/faculties/wangzhenkun.html
 
-- name: Huilin ZHEN
+- name: Hui-Ling Zhen (甄慧玲)
   year: 2024
   affiliation: Huawei Noah's Ark lab
   url: https://scholar.google.com.hk/citations?user=gq29DtwAAAAJ&hl=zh-CN
+
+- name: Zhenhua LI (李振华)
+  year: 2024
+  affiliation: Lecturer at Nanjing University of Aeronautics and Astronautics
+  url: https://scholar.google.com.hk/citations?user=auicQ2kAAAAJ
+
+- name: Hui Liu (刘卉)
+  year: 2024
+  affiliation: Assistant Professor at Saint Francis University
+  url: https://heidiliu.github.io/
+
+- name: Shaolong Shi (师少龙)
+  year: 2024
+  affiliation: University of Electronic Science and Technology
+  url: https://dblp.org/pid/211/3596.html
 
 - name: Jingda DENG (邓镜达)
   year: 2022

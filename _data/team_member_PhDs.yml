@@ -1,6 +1,6 @@
 - name: Dake BU (卜大可)
   photo: dakebu.jpg
-  info: started Month Year
+  info: started September 2023
   url: https://scholar.google.com/citations?user=mWrnNqsAAAAJ
   number_topic: 1
   topic1: Machine Learning
@@ -14,6 +14,14 @@
   topic2: Online Learning
   topic3: Bayesian Optimization
 
+- name: Longcan CHEN (陈龙灿)
+  photo: longcan_chen.jpg
+  info: started September 2021
+  url: https://www.researchgate.net/profile/Longcan-Chen
+  number_topic: 2
+  topic1: Multiobjective Optimization
+  topic2: Evolutionary Computation
+
 - name: Siyuan CHEN (陈思源)
   photo: siyuanchen.jpg
   info: started September 2024
@@ -21,6 +29,14 @@
   number_topic: 2
   topic1: Automated Programming
   topic2: Synergistic Optimization of Hardware and Software
+
+- name: Cheng GONG (龚成)
+  photo: cheng_gong.jpg
+  info: started September 2021
+  url: https://scholar.google.com/citations?user=d_wVFg0AAAAJ&hl=zh-CN&oi=ao
+  number_topic: 2
+  topic1: Multiobjective Optimization
+  topic2: Evolutionary Computation
 
 - name: Ping GUO (郭平)
   photo: pingguo.jpg
@@ -42,12 +58,20 @@
 
 - name: Song LAI (赖嵩)
   photo: songlai.jpg
-  info: started Month Year
+  info: started September 2023
   url: https://laisong-22004009.github.io/
   number_topic: 3
   topic1: Continual Learning
   topic2: Multiobjective Optimization
   topic3: Large Language Model
+
+- name: Ke LI (李可)
+  photo: ke_li.jpg
+  info: started September 2022
+  url: https://scholars.cityu.edu.hk/en/persons/ke-li(434297e3-7944-4663-8d14-ccfe9947faa6).html
+  number_topic: 2
+  topic1: Combinatorial Optimization
+  topic2: Machine Learning
 
 - name: Weiduo LIAO (廖伟多)
   photo: weiduoliao.jpg
@@ -60,7 +84,7 @@
 
 - name: Yilu LIU (刘一鹭)
   photo: yiluliu.jpg
-  info: started Month Year
+  info: started September 2023
   url: https://scholar.google.com/citations?user=7414KGcpDPAC
   number_topic: 2
   topic1: Network Science
@@ -71,7 +95,7 @@
   info: started September 2021
   url: https://scholar.google.com/citations?user=YqugGsQAAAAJ
   number_topic: 2
-  topic1: Evolution Etrategy
+  topic1: Evolution Strategy
   topic2: Multiobjective Optimization
 
 - name: Yuxiong QING (秦渝雄)
@@ -120,6 +144,14 @@
   number_topic: 2
   topic1: Multimodal
   topic2: Optimization
+
+- name: Zhe ZHAO（赵哲)
+  photo: zhe_zhao.jpg
+  info: started September 2023
+  url: https://openreview.net/profile?id=~Zhe_Zhao5
+  number_topic: 2
+  topic1: Multiobjective Optimization
+  topic2: Machine Learning
 
 - name: Kefeng ZHENG (郑可风)
   photo: kefengzheng.jpg
